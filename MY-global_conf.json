@@ -83,112 +83,112 @@
 			"datarate": 0
 		},
 		"tx_lut_0": {
-			 /* TX gain table, index 0 */
+			"desc": "TX gain table, index 0",
 			"dig_gain": 3,
 			"pa_gain": 0,
 			"mix_gain": 12,
 			"rf_power": -1
 		},
 		"tx_lut_1": {
-			 /* TX gain table, index 1 */
+			"desc": "TX gain table, index 1",
 			"dig_gain": 3,
 			"pa_gain": 0,
 			"mix_gain": 15,
 			"rf_power": 2
 		},
 		"tx_lut_2": {
-			 /* TX gain table, index 2 */
+			"desc": "TX gain table, index 2",
 			"dig_gain": 3,
 			"pa_gain": 1,
 			"mix_gain": 9,
 			"rf_power": 4
 		},
 		"tx_lut_3": {
-			 /* TX gain table, index 3 */
+			"desc": "TX gain table, index 3",
 			"dig_gain": 3,
 			"pa_gain": 1,
 			"mix_gain": 10,
 			"rf_power": 6
 		},
 		"tx_lut_4": {
-			 /* TX gain table, index 4 */
+			"desc": "TX gain table, index 4",
 			"dig_gain": 3,
 			"pa_gain": 1,
 			"mix_gain": 11,
 			"rf_power": 8
 		},
 		"tx_lut_5": {
-			 /* TX gain table, index 5 */
+			"desc": "TX gain table, index 5",
 			"dig_gain": 3,
 			"pa_gain": 1,
 			"mix_gain": 13,
 			"rf_power": 11
 		},
 		"tx_lut_6": {
-			 /* TX gain table, index 6 */
+			"desc": "TX gain table, index 6",
 			"dig_gain": 3,
 			"pa_gain": 1,
 			"mix_gain": 15,
 			"rf_power": 13
 		},
 		"tx_lut_7": {
-			 /* TX gain table, index 7 */
+			"desc": "TX gain table, index 7",
 			"dig_gain": 3,
 			"pa_gain": 2,
 			"mix_gain": 12,
 			"rf_power": 18
 		},
 		"tx_lut_8": {
-			 /* TX gain table, index 8 */
+			"desc": "TX gain table, index 8",
 			"dig_gain": 3,
 			"pa_gain": 2,
 			"mix_gain": 13,
 			"rf_power": 19
 		},
 		"tx_lut_9": {
-			 /* TX gain table, index 9 */
+			"desc": "TX gain table, index 9",
 			"dig_gain": 3,
 			"pa_gain": 2,
 			"mix_gain": 14,
 			"rf_power": 21
 		},
 		"tx_lut_10": {
-			 /* TX gain table, index 10 */
+			"desc": "TX gain table, index 10",
 			"dig_gain": 3,
 			"pa_gain": 2,
 			"mix_gain": 15,
 			"rf_power": 22
 		},
 		"tx_lut_11": {
-			 /* TX gain table, index 11 */
+			"desc": "TX gain table, index 11",
 			"dig_gain": 3,
 			"pa_gain": 3,
 			"mix_gain": 10,
 			"rf_power": 24
 		},
 		"tx_lut_12": {
-			 /* TX gain table, index 12 */
+			"desc": "TX gain table, index 12",
 			"dig_gain": 3,
 			"pa_gain": 3,
 			"mix_gain": 11,
 			"rf_power": 25
 		},
 		"tx_lut_13": {
-			 /* TX gain table, index 13 */
+			"desc": "TX gain table, index 13",
 			"dig_gain": 3,
 			"pa_gain": 3,
 			"mix_gain": 12,
 			"rf_power": 27
 		},
 		"tx_lut_14": {
-			 /* TX gain table, index 14 */
+			"desc": "TX gain table, index 14",
 			"dig_gain": 3,
 			"pa_gain": 3,
 			"mix_gain": 13,
 			"rf_power": 28
 		},
 		"tx_lut_15": {
-			 /* TX gain table, index 15 */
+			"desc": "TX gain table, index 15",
 			"dig_gain": 3,
 			"pa_gain": 3,
 			"mix_gain": 15,
