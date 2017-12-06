@@ -191,13 +191,13 @@
 		}
 	},
 	"gateway_conf": {
-		"server_address": "router.au.thethings.network",
-		"serv_port_up": 1700,
-		"serv_port_down": 1700,
+		"server_address": "asia-se.thethings.network",
+		"serv_port_up": 1901,
+		"serv_port_down": 1901,
 		"servers": [ {
-			"server_address": "router.au.thethings.network",
-			"serv_port_up": 1700,
-			"serv_port_down": 1700,
+			"server_address": "asia-se.thethings.network",
+			"serv_port_up": 1901,
+			"serv_port_down": 1901,
 			"serv_enabled": true
 		} ]
 	}
